@@ -18,6 +18,7 @@ Contents
 
 .. toctree::
 
+   concept
    usage
    teste 1
    teste 2
