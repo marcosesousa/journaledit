@@ -4,11 +4,7 @@ Conceitos
 Termos-chave na edição científica
 ---------------------------------
 
-To use Lumache, first install it using pip:
 
-.. code-block:: console
-
-   (.venv) $ pip install lumache
 
 Interlocutores (papéis)
 -----------------------
@@ -18,6 +14,7 @@ Interlocutores (papéis)
 * Autores
 * Leitores
 
+ 
 * Indexadores
 * Agências de fomento
 * Órgãos governamentais
