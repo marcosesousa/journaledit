@@ -1,9 +1,6 @@
 Documentação sobre processos editoriais de periódicos científicos
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Este projeto visa fornecer subsídios às equipes editoriais de periódicos científicos. Visando atender este objetivo serão abordados conceitos-chaves sobre publicação científica, políticas editoriais importantes (incluindo diretrizes éticas), elementos importantes para a prática e o dia-a-dia das equipes editoriais.
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Documentação disponível em: https://journaledit.readthedocs.io/pt_BR/latest/index.html
