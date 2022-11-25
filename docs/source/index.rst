@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Documentação sobre processos editoriais de periódicos científicos
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
@@ -20,3 +20,5 @@ Contents
 
    usage
    api
+
+Esta documentação está hospedada em Read the Docs https://journaledit.readthedocs.io/pt/latest/
