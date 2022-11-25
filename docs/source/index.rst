@@ -19,6 +19,8 @@ Contents
 .. toctree::
 
    concept
+   policies
+   howtomake
    usage
    teste 1
    teste 2
