@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'journaledit'
-copyright = '2022, marcosesousa'
+copyright = '2022, marcos e sousa'
 author = 'marcos e sousa'
 
 release = '0.1'
