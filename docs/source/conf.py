@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'journaledit'
+copyright = '2022, marcosesousa'
+author = 'marcos e sousa'
 
 release = '0.1'
 version = '0.1.0'
