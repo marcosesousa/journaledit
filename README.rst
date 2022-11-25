@@ -1,4 +1,4 @@
-Template for the Read the Docs tutorial
+Documentação sobre processos editoriais de periódicos científicos
 =======================================
 
 This GitHub template includes fictional Python library
