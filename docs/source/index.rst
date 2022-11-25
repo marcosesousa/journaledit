@@ -8,7 +8,7 @@ Contents
 
 .. toctree::
 
-      concept
+   concept
    policies
    howtomake
    about
