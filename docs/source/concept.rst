@@ -1,8 +1,8 @@
-Conceitos:
-=====
+Conceitos
+=========
 
 Termos-chave na edição científica
-------------
+---------------------------------
 
 To use Lumache, first install it using pip:
 
@@ -11,7 +11,7 @@ To use Lumache, first install it using pip:
    (.venv) $ pip install lumache
 
 Interlocutores (papéis)
-----------------
+-----------------------
 
 * Editores
 * Equipe editorial
