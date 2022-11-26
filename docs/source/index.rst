@@ -14,6 +14,7 @@ Conteúdo
    policies
    howtomake
    about
+   license
    docs
 
 Esta documentação está hospedada em Read the Docs https://journaledit.readthedocs.io/pt_BR/latest/
