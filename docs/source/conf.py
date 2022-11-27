@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'journaledit'
-copyright = '2022, marcos e sousa. License **Creative Commons** CC BY-NC-ND'
+copyright = '2022, marcos e sousa. License Creative Commons CC BY-NC-ND'
 author = 'marcos e sousa'
 
 release = '0.1'
