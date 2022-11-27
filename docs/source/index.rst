@@ -5,8 +5,6 @@ Este projeto visa fornecer subsídios às equipes editoriais de periódicos cien
 
 Todas as recomendações apresentadas aqui são baseadas em diretrizes sobre edição científica reconhecidas (ver :ref:`Documentos de referência`) ou na pesquisa recente sobre a temática.
 
-teste :term:`Autocitação`
-
 .. aviso:: O conteúdo desta documentação está em desenvolvimento.
 
 Conteúdo
