@@ -20,13 +20,13 @@ Termos-chave na edição científica
 .. glossary::
 
   Abertura de avaliação
-    Avaliação aberta por pares.
+    Ver :term:`Avaliação aberta por pares`.
 
   Ahead of print
     Forma de publicação, bastante utilizada até a emergência da publicação contínua, que consiste em disponibilizar um artigo (ainda sem vinculação com número, volume, ano e paginação) de modo que a comunidade acadêmica já tenha acesso ao seu conteúdo. É uma maneira de determinar uma primeira publicação, considerando os prazos longos entre aprovação e publicação de artigos. Posteriormente, o artigo é diagramado e inserido em um número regular da revista.
 
   APC
-    Taxa de processamento de artigo.
+    ver :term:`Taxa de processamento de artigo`.
 
   Avaliação aberta por pares
     O conceito de abertura de avaliação possui um amplo espectro, mas de modo geral envolve que autor e parecerista/avaliador conheçam a identidade um do outro (ou seja, não é duplo cego, nem cego). Pode, ou não, envolver a comunicação entre autor e avaliador, ou mesmo entre os avaliadores – a depender da política estabelecida pela revista.
@@ -38,22 +38,22 @@ Termos-chave na edição científica
     Prática de citar a si mesmo, tanto ao nível do autor (que cita seus trabalhos anteriores) quanto de periódicos (que cita outros artigos publicados anteriormente). A autocitação em si não é um desvio ético mas pode se tornar, na medida em que o autor ou periódico utiliza deste procedimento para inflar seu quantitativo de citações (de forma não-orgânica). Há indexadores bibliométricos que fornecem dados de porcentagem de incidência de autocitação em um periódico, assim como alguns não contabilizam autocitações em suas métricas.
 
   Autoplágio
-    Caracteriza-se pela utilização de trechos de trabalhos anteriores sem a devida marca de citação e referência do local inicial onde foi publicado. É tratado também como :term:`redundância de publicação`` e :term:`reaproveitamento de texto`` no intuito de desvincular a prática da questão criminal a que o :term:`plágio`` está associado (tanto a detecção do plágio quanto do autoplágio é realizada através de sistemas de verificação de similaridade – ver :term:`Similaridade``). Ou seja, autoplágio, diferentemente do :term:`plágio`, não é um crime, mas é um desvio ético na prática de pesquisa (ver `Diretrizes para a integridade na atividade científica do CNPq <http://www.cnpq.br/web/guest/diretrizes>`_, na medida em que sempre se deve referenciar a publicação, mesmo que do próprio autor, na qual tanto as ideias quanto o texto, ipsis litteris, foi veiculada inicialmente.
+    Caracteriza-se pela utilização de trechos de trabalhos anteriores sem a devida marca de citação e referência do local inicial onde foi publicado. É tratado também como :term:`redundância de publicação` e :term:`reaproveitamento de texto` no intuito de desvincular a prática da questão criminal a que o :term:`plágio`` está associado (tanto a detecção do plágio quanto do autoplágio é realizada através de sistemas de verificação de similaridade – ver :term:`Similaridade``). Ou seja, autoplágio, diferentemente do :term:`plágio`, não é um crime, mas é um desvio ético na prática de pesquisa (ver `Diretrizes para a integridade na atividade científica do CNPq <http://www.cnpq.br/web/guest/diretrizes>`_, na medida em que sempre se deve referenciar a publicação, mesmo que do próprio autor, na qual tanto as ideias quanto o texto, ipsis litteris, foi veiculada inicialmente.
 
   Avaliação por pares
     Processo de avaliação de produtos acadêmicos que consiste em mobilizar especialistas sobre o assunto para emitir um parecer sobre aquele produto. Os dois modelos mais usuais atualmente são: avaliação duplo cego e avaliação aberta por pares.
 
   Avaliador
-    Ver avaliação por pares.
+    Ver :term:`avaliação por pares`.
 
   Coautoria
-    Ver multiautoria.
+    Ver :term:`multiautoria`.
 
   Conflito de interesse
     Quando uma das partes no processo de avaliação do periódico (pode ser autor, avaliador ou mesmo o editor) possui algum motivo que possa comprometer a avaliação. Entre estes motivos podemos elencar: origem do financiamento da pesquisa, relações interpessoais ou profissionais, divergências teóricas não conciliáveis, entre outros.
 
   Creditação de autoria
-    É o procedimento de declarar, da forma mais pormenorizada possível, a forma de colaboração de cada um dos envolvidos na produção de um produto acadêmico multiautoral. Essa é uma iniciativa em direção a um processo mais transparente para a comunidade de pesquisadores. O SciELO Brasil recomenda a utilização do CRediT1 ou outra forma definida pelo periódico.
+    É o procedimento de declarar, da forma mais pormenorizada possível, a forma de colaboração de cada um dos envolvidos na produção de um produto acadêmico multiautoral. Essa é uma iniciativa em direção a um processo mais transparente para a comunidade de pesquisadores. O SciELO Brasil recomenda a utilização do CRediT ou outra forma definida pelo periódico.
 
   Currículo Lattes
     Repositório online com os currículos dos pesquisadores brasileiros, inclusive com a lista de suas de produções acadêmicas, artísticas e culturais. Estabeleceu-se como parâmetro, amplamente reconhecido pela comunidade nacional – apesar de receber críticas –, seus dados são utilizados, inclusive, em processos de concursos públicos e destinação de verbas para pesquisa.
@@ -62,22 +62,22 @@ Termos-chave na edição científica
     É uma prática de transparência que visa tornar público, acessível e reutilizável os dados utilizados na elaboração de um produto acadêmico. Têm sido criados repositórios de dados públicos de pesquisa, com a finalidade exclusiva disto, possibilitando, inclusive, a correta citação deste tipo de produto acadêmico. Os repositórios de dados de pesquisa permitem versionamento.
 
   Decisão editorial
-    É o ato de deliberação do editor da revista se o produto acadêmico avaliado foi aprovado para publicação, rejeitado ou se devem ser realizadas alterações para nova avaliação (no geral estes são os três encaminhamentos mais comuns). A decisão do editor mesmo levando por base a análise dos pareceres emitidos pelos avaliadores, pode ou não concordar com esses pareceres (ver Parecer), ou seja, em última instância, a decisão sempre é do editor e o parecer atua como subsídio para esta decisão. No entanto, há publicações que considerarão a decisão do avaliador/parecerista como imutável (mesmo que ela não seja embasada e aqui é o grande problema – ver Parecer) e o mais adequado é a publicação declarar como trata disto em sua política editorial.
+    É o ato de deliberação do editor da revista se o produto acadêmico avaliado foi aprovado para publicação, rejeitado ou se devem ser realizadas alterações para nova avaliação (no geral estes são os três encaminhamentos mais comuns). A decisão do editor mesmo levando por base a análise dos pareceres emitidos pelos avaliadores, pode ou não concordar com esses pareceres (ver :term:`Parecer`), ou seja, em última instância, a decisão sempre é do editor e o parecer atua como subsídio para esta decisão. No entanto, há publicações que considerarão a decisão do avaliador/parecerista como imutável (mesmo que ela não seja embasada e aqui é o grande problema – ver :term:`Parecer`) e o mais adequado é a publicação declarar como trata disto em sua política editorial.
 
   DOI
-    É um identificador persistente de documentos digitais, muito utilizado na área acadêmica,  associado a artigos, capítulos de livros, livros, teses e dissertações, dados de pesquisa, preprint, entre outros. Ver Identificadores persistentes.
+    É um identificador persistente de documentos digitais, muito utilizado na área acadêmica,  associado a artigos, capítulos de livros, livros, teses e dissertações, dados de pesquisa, preprint, entre outros. Ver :term:`Identificadores persistentes`.
 
   Dossiê
     Coletânea de artigos publicados em periódicos que possuem unidade temática, na maioria das vezes com chamadas de artigos específicas. A organização do dossiê pode ou não ser realizada por um editor permanente da revista, o mais comum é ser realizada por um editor convidado.
 
   End Note Web
-    Ver Gerenciador bibliográfico.
+    Ver :term:`Gerenciador bibliográfico`.
 
   Falsificação de pareceres
     Falsificações de pareceres são sempre consideradas desvios de conduta éticas. No geral, elas se manifestam em dois casos: (a) pareceres falsos emitidos em periódicos predatórios; (b) alteração de pareceres no processo de decisão editorial. Aqui cabe um esclarecimento: pode fazer parte do trabalho do editor suprimir dos pareceres possíveis desvios éticos e profissionais (como indicações questionáveis da própria obra do parecerista para inflar índices de citação, uso de linguagem em descompasso com o decoro, ou mesmo amenizar críticas grosseiras), no entanto, realizar alterações em pareceres, de modo que uma recomendação por aprovação se torne rejeição (ou o contrário) é um desvio ético na condução do processo de avaliação.
 
   Fator de impacto
-    Índice bibliométrico de avaliação de periódicos. A designação mais correta é JIF, mas é mencionado também como JCR, que é a publicação que disponibiliza essa métrica – ver Web of Science.
+    Índice bibliométrico de avaliação de periódicos. A designação mais correta é JIF, mas é mencionado também como JCR, que é a publicação que disponibiliza essa métrica – ver :term:`Web of Science`.
 
   Fluxo contínuo
     Forma de recebimento de artigos por um periódico ou editora na qual as submissões são aceitas continuamente. Um exemplo de recebimento que não é em fluxo contínuo são os dossiês, que possuem data de início de submissão e encerramento.
@@ -86,7 +86,7 @@ Termos-chave na edição científica
     São sistemas que realizam o gerenciamento de referências bibliográficas e, normalmente, são integrados à editores de texto (como Word e LibreOffice). Eles podem ou não permitir categorizações internas e uso de marcadores. Um dos ganhos de tempo no uso deste tipo de recurso é o fato de não se ter que preocupar com a realização da conferência de bibliografia e adequação da mesma às normas de referência a ser utilizada (ABNT, Vancouver, APA, entre outras).
 
   Gerenciador de fluxo editorial
-    Sistemas que realizam o acompanhamento de todo o processamento de uma submissão, desde o recebimento do artigo, passando pela designação para um editor, escolha de avaliadores, disponibilidade de um sistema de registro das decisões editoriais, comunicado com o autor sobre a decisão, espaço para registro de versão corrigida e posterior publicação do artigo. Alguns gerenciados de fluxo editorial oferecem uma interface de disponibilização dos artigos publicados, de modo que fornecem, também, os metadados de modo correto (desde que estejam configurados corretamente) e podem disponibilizar sistemas de interoperabilidade – como o OJS.
+    Sistemas que realizam o acompanhamento de todo o processamento de uma submissão, desde o recebimento do artigo, passando pela designação para um editor, escolha de avaliadores, disponibilidade de um sistema de registro das decisões editoriais, comunicado com o autor sobre a decisão, espaço para registro de versão corrigida e posterior publicação do artigo. Alguns gerenciados de fluxo editorial oferecem uma interface de disponibilização dos artigos publicados, de modo que fornecem, também, os metadados de modo correto (desde que estejam configurados corretamente) e podem disponibilizar sistemas de interoperabilidade – como o :term:`OJS`.
 
   Índice h
     É um índice que busca medir a recorrência de X vezes X coisas. No campo da publicação científica ele tem sido utilizado, como índice bibliométrico, para medir a recorrência de citação de pesquisadores e periódicos. Em linhas gerais um valor Z de índice h significa que Z artigos foram citados pelo menos Z vezes – uma explicação detalhada e, inclusive com as especificidades do índice h5 do Google Scholar pode ser vista nesta nossa publicação Índice h, Google Scholar, Índice h5, Publish or Perish e Índice h10.
@@ -110,22 +110,22 @@ Termos-chave na edição científica
     O mais comum sistema de gerenciamento de fluxo editorial em contexto brasileiro, por ser gratuito, por ser um software livre e ter sido amplamente incentivado pelo Ibict. 
 
   ORCID
-    Repositório de currículos acadêmicos em nível internacional, num molde próximo ao do Currículo Lattes, utiliza um identificador persistente de autoria e permite interoperabilidade com vários sistemas, entre eles o do DOI (tanto via Crossref quanto Datacite).
+    Repositório de currículos acadêmicos em nível internacional, num molde próximo ao do Currículo Lattes, utiliza um identificador persistente de autoria e permite interoperabilidade com vários sistemas, entre eles o do :term:`DOI` (tanto via Crossref quanto Datacite).
 
   Parecer
     No processo de avaliação dos produtos acadêmicos são emitidos pareceres (no geral cada revista/editora possui seu próprio modelo de parecer) para subsidiar a decisão do editor. O elemento mais importante de um parecer é seu embasamento, pois tão importante quanto um ‘publicar’ ou um ‘rejeitar’ são os motivos técnico-conceituais e para o campo de conhecimento do porquê desta recomendação.
 
   Parecerista
-    Ver avaliação por pares.
+    Ver :term:`avaliação por pares`.
 
   Parecerista ad hoc
-    Ver avaliação por pares.
+    Ver :term:`avaliação por pares`.
 
   Plágio
-    É um crime previsto em lei 2que consiste em assumir como suas as ideias de outra(s) pessoa(s). Ou seja, além de um desvio ético, no processo científico, é um crime previsto no código penal. A forma mais óbvia deste tipo de manifestação é com relação à cópia, ipsis litteris, de um texto ou trecho de outro. No processo editorial/acadêmico é possível detectar isto com sistemas de detecção de similaridade – Ver Similaridade.
+    É um crime previsto em lei que consiste em assumir como suas as ideias de outra(s) pessoa(s). Ou seja, além de um desvio ético, no processo científico, é um crime previsto no código penal. A forma mais óbvia deste tipo de manifestação é com relação à cópia, ipsis litteris, de um texto ou trecho de outro. No processo editorial/acadêmico é possível detectar isto com sistemas de detecção de similaridade – Ver :term:`Similaridade`.
 
   Peer review: 
-    Avaliação por pares.
+    Ver :term:`avaliação por pares`.
 
   Periodicidade
     Intervalo temporal entre as publicações de um número de um periódico. Os mais comuns nos periódicos científicos brasileiros são: quadrimestral, semestral, anual e publicação contínua.
@@ -134,13 +134,13 @@ Termos-chave na edição científica
     Versão prévia de um artigo, depositado em um repositório criado especificamente com esta finalidade3 – versões prévias de um texto em um blog não são consideradas preprints, por exemplo, e seu uso sem a devida marcação de citação caracterização reaproveitamento de texto e/ou autoplágio. Versões preprints possuem um conjunto de funções: caracterizar uma primeira publicação sobre o tema a um dado pesquisador; disponibilizar para a comunidade o acesso a um conteúdo que ainda está em desenvolvimento, deste modo, os comentários e críticas podem ser incorporados antes da submissão do artigo a um periódico.
 
   Protocolo OAI
-    Ver interoperabilidade.
+    Ver :term:`interoperabilidade`.
 
   Publicação contínua
     Modelo de publicação de artigos em que, após a aprovação, o artigo já é revisado, diagramado e publicado. Este modelo abole a publicação com periodicidade tradicional, ampliando, significativamente, a velocidade de circulação do conhecimento. Este modelo só faz sentido para publicações online, é utilizado por poucos periódicos brasileiros, mas há uma tendência, considerável, por uma ampla adesão, já que reduz o tempo entre a aprovação e a publicação do artigo.
 
   Publicação duplicada
-    Ver Redundância de publicação.
+    Ver :term:`Redundância de publicação`.
 
   Publicação prévia
     É o termo utilizado para tratar a veiculação de uma dada informação antes da publicação do texto atual. Por exemplo, um artigo preprint é uma publicação prévia do artigo publicado, posteriormente, em um periódico. Sempre é necessário verificar a política de um periódico/editora com relação a isto, mas servidores preprints não considerados publicações prévias para fins de verificação de similaridade, pois o texto depositado no servidor preprint é tratado como uma versão do artigo ainda não publicado em periódico. Alguns periódicos e editoras comerciais consideram teses e dissertações como publicação prévia que não comprometem a publicação em um periódico (tal qual o preprint), mas este tratamento não é consensual e é importante sempre verificar a política do periódico ou da editora com relação a este quesito. O que está em jogo aqui seria a quebra de inediticidade e originalidade de um texto.
