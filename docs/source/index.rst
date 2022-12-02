@@ -15,9 +15,9 @@ Conteúdo
    concept
    policies
    howtomake
-   license
-   docs
+      docs
    faq
+   license
    about
 
 Esta documentação está hospedada em Read the Docs https://journaledit.readthedocs.io/pt_BR/latest/
