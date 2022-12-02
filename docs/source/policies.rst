@@ -59,6 +59,7 @@ Política de publicação prévia OU de reuso de texto
 Diretrizes de conflito de interesse (autores, avaliadores e editores)
 ---------------------------------------------------------------------
 
+==================================================================
 Outras recomendações (apesar de não serem uma política/diretrizes)
 ==================================================================
 
