@@ -26,3 +26,15 @@ Periódicos predatórios
 ----------------------
 * `Preda Qualis <https://predaqualis.netlify.com/>`_
 * `Beall’s List <https://beallslist.net/>`_
+
+Sugestões de sites
+------------------
+*`Vida acadêmica: Modo de usar <https://vidamododeusar.com.br/academica/>`_
+*`Encyclopedia of Knowledge Organization (IEKO) <https://www.isko.org/cyclo/>`_
+
+Ferramenta para editores
+------------------------
+*`Fluxograma comparativo de recebimento e envio de artigos em consonância com as práticas de Ciência Aberta <https://doi.org/10.5281/zenodo.6331729>`_
+*`Autoanálise preliminar de indexação – Scopus, DOAJ, Redalyc, Latindex 2.0, Web of Science, Redib, ERIHPLUS, SciELO, Princípios de Ciência Aberta <https://doi.org/10.5281/zenodo.6392191>`_
+*`Modelo de cálculo de custo de manutenção de periódicos científicos no Brasil <https://doi.org/10.7910/DVN/3MZAJA>`_
+*` <>`_
