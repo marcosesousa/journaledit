@@ -11,12 +11,16 @@ Conteúdo
 --------
 
 .. toctree::
+   :caption: Conteúdos
 
    concept
    policies
    howtomake
    docs
    faq
+   
+.. toctree::
+   :caption: Sobre o projeto
    license
    about
 
