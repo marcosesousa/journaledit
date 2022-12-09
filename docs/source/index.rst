@@ -16,12 +16,12 @@ Conteúdo
    concept
    policies
    howtomake
-   docs
    faq
    
 .. toctree::
    :caption: Sobre o projeto
    
+   docs
    license
    about
 
