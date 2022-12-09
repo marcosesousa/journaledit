@@ -20,7 +20,10 @@ Termos-chave na edição científica
 .. glossary::
 
   Abertura de avaliação
+  Avaliação aberta por pares
     Ver :term:`Avaliação aberta por pares`.
+    O conceito de abertura de avaliação possui um amplo espectro, mas de modo geral envolve que autor e parecerista/avaliador conheçam a identidade um do outro (ou seja, não é duplo cego, nem cego). Pode, ou não, envolver a comunicação entre autor e avaliador, ou mesmo entre os avaliadores – a depender da política estabelecida pela revista.
+
 
   Ahead of print
     Forma de publicação, bastante utilizada até a emergência da :term:`publicação contínua`, que consiste em disponibilizar um artigo (ainda sem vinculação com número, volume, ano e paginação) de modo que a comunidade acadêmica já tenha acesso ao seu conteúdo. É uma maneira de determinar uma primeira publicação, considerando os prazos longos entre aprovação e publicação de artigos. Posteriormente, o artigo é diagramado e inserido em um número regular da revista.
@@ -28,8 +31,6 @@ Termos-chave na edição científica
   APC
     ver :term:`Taxa de processamento de artigo`.
 
-  Avaliação aberta por pares
-    O conceito de abertura de avaliação possui um amplo espectro, mas de modo geral envolve que autor e parecerista/avaliador conheçam a identidade um do outro (ou seja, não é duplo cego, nem cego). Pode, ou não, envolver a comunicação entre autor e avaliador, ou mesmo entre os avaliadores – a depender da política estabelecida pela revista.
 
   Avaliação duplo cego
     Avaliação duplo cego significa que ela é cega (sem conhecimento da identidade) pelos dois ‘lados’, autor e avaliador. Historicamente estabeleceu-se como hegemônica na área de humanidades, em virtude de minimizar (ou buscar minimizar) vícios de comportamento como preterir autores de determinada raça, religião, gênero, região, busca uma avaliação mais isenta (sem o conhecimento da identidade) e pautada estritamente na qualidade e relevância da submissão.
