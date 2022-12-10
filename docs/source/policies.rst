@@ -2,6 +2,8 @@
 Políticas e recomendações
 =========================
 
+Serão apresentadas aqui as premissas conceituais que justificam ou demandam a necessidade de declaração das respectivas políticas e diretrizes editoriais. Não temos como objetivo apresentar 'modelos' de políticas, para isso, recomendamos a análise das políticas editoriais dos periódicos da Rede SciELO Brasil (destaca-se que áreas diferentes possuem demandas, diretrizes e práticas levemente distintas).
+
 Políticas editoriais
 ====================
 
@@ -35,6 +37,7 @@ Diretrizes de ética na publicação científica
 Aprovação em comitê de ética (para quaisquer pesquisas que envolvam seres vivos)
 --------------------------------------------------------------------------------
 
+-----------------------------------------
 Políticas de alinhamento à Ciência Aberta
 -----------------------------------------
 
