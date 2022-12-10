@@ -2,6 +2,8 @@
 Documentos de referência
 ========================
 
+.. aviso:: O conteúdo desta documentação está em desenvolvimento.
+
 Documentação utilizada como referência para as recomendações apresentadas aqui:
 
 Avaliação de periódicos

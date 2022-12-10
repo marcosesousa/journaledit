@@ -2,6 +2,8 @@
 Políticas e recomendações
 =========================
 
+.. aviso:: O conteúdo desta documentação está em desenvolvimento.
+
 Serão apresentadas aqui as premissas conceituais que justificam ou demandam a necessidade de declaração das respectivas políticas e diretrizes editoriais. Não temos como objetivo apresentar 'modelos' de políticas, para isso, recomendamos a análise das políticas editoriais dos periódicos da Rede SciELO Brasil (destaca-se que áreas diferentes possuem demandas, diretrizes e práticas levemente distintas).
 
 Políticas editoriais
@@ -12,7 +14,7 @@ Recomenda-se a criação de uma página específica no site do periódico que ab
 Política de direitos autorais
 -----------------------------
 
-É altamente recomendado é que os direitos autorais sobre o texto publicado permaneçam com os autores, ou seja, recomenda-se que o periódico NÃO retenha os direitos autorais. São principalmente dois motivos que norteiam esta orientação, (a) compatibilidade da política do periódicos com recomendações internacionais, como o :term: `Plano S`, e recomendações nacionais de indexadores, como o SciELO Brasil (há outros indexadores que tambpem realizam essa recomendação, como o DOAJ); (b) na medida em que o periódico não é uma instância jurídica, mas é sim um produto/serviço de uma instituição (no geral universidades e centros de pesquisa), ele não poderia deter os direitos autorais, mas sim, quem deteria esses direitos seria a instituição. Ainda sobre o item (b), na medida em que será a instituição que deterá os direitos autorais, quaisquer cessões futuras (para republicação, por exemplo) deverá ser acompanhada de poder jurídico que permita ao editor realizar essa autorização (que é improvável que ele detenha).
+É altamente recomendado é que os direitos autorais sobre o texto publicado permaneçam com os autores, ou seja, recomenda-se que o periódico NÃO retenha os direitos autorais. São principalmente dois motivos que norteiam esta orientação, (a) compatibilidade da política do periódicos com recomendações internacionais, como o :term:`Plano S`, e recomendações nacionais de indexadores, como o SciELO Brasil (há outros indexadores que tambpem realizam essa recomendação, como o DOAJ); (b) na medida em que o periódico não é uma instância jurídica, mas é sim um produto/serviço de uma instituição (no geral universidades e centros de pesquisa), ele não poderia deter os direitos autorais, mas sim, quem deteria esses direitos seria a instituição. Ainda sobre o item (b), na medida em que será a instituição que deterá os direitos autorais, quaisquer cessões futuras (para republicação, por exemplo) deverá ser acompanhada de poder jurídico que permita ao editor realizar essa autorização (que é improvável que ele detenha).
 
 Política de licenciamento
 -------------------------

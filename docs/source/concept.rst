@@ -1,6 +1,8 @@
 Conceitos importantes
 =====================
 
+.. aviso:: O conteúdo desta documentação está em desenvolvimento.
+
 Interlocutores (papéis)
 -----------------------
 
