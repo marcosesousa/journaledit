@@ -29,6 +29,12 @@ Ferramenta para editores
 * `Autoanálise preliminar de indexação – Scopus, DOAJ, Redalyc, Latindex 2.0, Web of Science, Redib, ERIHPLUS, SciELO, Princípios de Ciência Aberta <https://doi.org/10.5281/zenodo.6392191>`_
 * `Modelo de cálculo de custo de manutenção de periódicos científicos no Brasil <https://doi.org/10.7910/DVN/3MZAJA>`_
 
+Fontes do glossário
+-------------------
+* `Glossário rápido de termos sobre publicação científica ou facilitando a vida do jovem pesquisador <https://vidamododeusar.com.br/academica/index.php/2021/05/15/glossario-publicacao-cientifica/>`_
+* `Recomendação da UNESCO sobre Ciência Aberta. <https://unesdoc.unesco.org/ark:/48223/pf0000379949_por>`_
+* `Recomendações sobre o uso de preprints no campo da História - Fórum de Editores – ANPUH-Brasil <https://doi.org/10.5281/zenodo.6962131>`_
+
 Indexadores
 -----------
 * `DOAJ <https://doaj.org/apply/guide/>`_

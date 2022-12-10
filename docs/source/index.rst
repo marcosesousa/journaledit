@@ -7,8 +7,6 @@ Todas as recomendações apresentadas aqui são baseadas em diretrizes sobre edi
 
 .. aviso:: O conteúdo desta documentação está em desenvolvimento.
 
-teste :abbr:`LIFO (last-in, first-out)`
-
 Conteúdo
 --------
 
