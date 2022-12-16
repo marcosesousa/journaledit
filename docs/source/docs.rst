@@ -16,6 +16,7 @@ Ciência Aberta
 * ALMEIDA, Bethânia de Araújo; SANTOS, Paula Xavier dos; HENNING, Patricia. **Livro Verde**: Ciência Aberta e dados abertos: mapeamento e análise de políticas, infraestruturas e estratégias em perspectiva nacional e internacional. Rio de Janeiro: [s.n.], 2017. Disponível em: https://www.arca.fiocruz.br/handle/icict/24117. Acesso em: 7 ago. 2022. 
 * AMARAL, Olavo. **Guia de boas práticas em ciência aberta e reprodutível**. Instituto Serrapilheira. nov. de 2019. Disponível em: https://serrapilheira.org/wp-content/uploads/2019/11/serrapilheira-guia-ciencia-aberta-e-reprodutivel.pdf. Acesso em: 8 dez. 2021. 
 * SHINTAKU, Milton; SALES, Luana (org.). **Ciência Aberta para Editores Científicos**. Botucatu: ABEC, 2019. DOI 10.21452/978-85-93910-02-9. Disponível em: https://www.abecbrasil.org.br/arquivos/Ciencia_aberta_editores_cientificos_Ebook.pdf. Acesso em: 25 set. 2019. 
+* UNESCO. Open Science Toolkit .**UNESCO**. 2022 Disponível em: https://www.unesco.org/en/natural-sciences/open-science/toolkit. Acesso em: 15 dez. 2022.
 * UNESCO. Recomendação da UNESCO sobre Ciência Aberta. **UNESCO**. Tradução de Tikinet Edição. 2022. Disponível em: https://unesdoc.unesco.org/ark:/48223/pf0000379949_por. Acesso em: 11 fev. 2022. 
 
 Diretrizes éticas
