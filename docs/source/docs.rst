@@ -54,8 +54,9 @@ Livros e Artigos
 
 Periódicos predatórios
 ----------------------
-* `Preda Qualis <https://predaqualis.netlify.com/>`_
 * `Beall’s List <https://beallslist.net/>`_
+* `Preda Qualis <https://predaqualis.netlify.com/>`_
+* `Unesco - Identifying predatory academic journals and conferences <https://unesdoc.unesco.org/ark:/48223/pf0000383324>`_
 
 Sugestões de sites
 ------------------
